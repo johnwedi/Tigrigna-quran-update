@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import { useNavigate } from 'react-router-dom';
 import styles from './NotesPage.module.css';
 
 interface Note {
@@ -10,7 +9,6 @@ interface Note {
 
 const NotesPage: React.FC = () => {
   const [notes, setNotes] = useState<Note[]>([]);
-  
 
   useEffect(() => {
     const storedNotes = JSON.parse(localStorage.getItem('notes') || '[]');
