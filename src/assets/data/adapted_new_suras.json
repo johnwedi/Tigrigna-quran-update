@@ -28,8 +28,8 @@
         "english_name": "An-Nisa'",
         "number_of_ayas": 176,
         "sura_id": 4,
-        "tigrigna_name": "An-Nisa",
-        "tigrigna_sura_name_translated": "An-Nisa"
+        "tigrigna_name": "እተን ኣንስቲ",
+        "tigrigna_sura_name_translated": "እተን ኣንስቲ"
     },
     {
         "arabic_name": "الماۤئدة",
@@ -76,8 +76,8 @@
         "english_name": "Yunus",
         "number_of_ayas": 109,
         "sura_id": 10,
-        "tigrigna_name": "እቲ ዮኑስ",
-        "tigrigna_sura_name_translated": "እቲ ዮኑስ"
+        "tigrigna_name": "ዮኑስ",
+        "tigrigna_sura_name_translated": "ዮኑስ"
     },
     {
         "arabic_name": "هود",
@@ -124,24 +124,24 @@
         "english_name": "An-Nahl",
         "number_of_ayas": 128,
         "sura_id": 16,
-        "tigrigna_name": "ንህቢ",
-        "tigrigna_sura_name_translated": "ንህቢ"
+        "tigrigna_name": "እቲ ንህቢ",
+        "tigrigna_sura_name_translated": "እቲ ንህቢ"
     },
     {
         "arabic_name": "الاسراۤء",
         "english_name": "Al-Isra'",
         "number_of_ayas": 111,
         "sura_id": 17,
-        "tigrigna_name": "ጎዕዞ ለይቲ",
-        "tigrigna_sura_name_translated": "ጎዕዞ ለይቲ"
+        "tigrigna_name": "እቲ ጎዕዞ ለይቲ",
+        "tigrigna_sura_name_translated": "እቲ ጎዕዞ ለይቲ"
     },
     {
         "arabic_name": "الكهف",
         "english_name": "Al-Kahf",
         "number_of_ayas": 110,
         "sura_id": 18,
-        "tigrigna_name": "በዓቲ",
-        "tigrigna_sura_name_translated": "በዓቲ"
+        "tigrigna_name": "እቲ በዓቲ",
+        "tigrigna_sura_name_translated": "እቲ በዓቲ"
     },
     {
         "arabic_name": "مريم",
@@ -164,8 +164,8 @@
         "english_name": "Al-Anbiya'",
         "number_of_ayas": 112,
         "sura_id": 21,
-        "tigrigna_name": "ነብያት",
-        "tigrigna_sura_name_translated": "ነብያት"
+        "tigrigna_name": "እቶም ነብያት",
+        "tigrigna_sura_name_translated": "እቶም ነብያት"
     },
     {
         "arabic_name": "الحج",
