@@ -19,12 +19,9 @@ interface GroupedData {
 
 const SurasContentView: React.FC = () => {
   const { suraId } = useParams<{ suraId: string }>();
-  const [cardData, setCardData] = useState<DynamicObject[]>([]);
   const [groupedData, setGroupedData] = useState<GroupedData>({});
 
   useEffect(() => {
-    setCardData(surahData as DynamicObject[]);
-
     const grouped: GroupedData = (surahData as DynamicObject[]).reduce(
       (acc, item) => {
         const suraIdNum = item.sura_id as number;
