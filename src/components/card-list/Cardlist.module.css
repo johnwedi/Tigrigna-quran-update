@@ -180,7 +180,7 @@ button:hover {
 }
 
 .delete-bookmark-button {
-  background: red;
+  background: rgb(255, 0, 0);
   border: none;
   color: white;
   cursor: pointer;

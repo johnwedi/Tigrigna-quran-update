@@ -10,7 +10,7 @@ interface Note {
 
 const NotesPage: React.FC = () => {
   const [notes, setNotes] = useState<Note[]>([]);
-  const navigate = useNavigate();
+  
 
   useEffect(() => {
     const storedNotes = JSON.parse(localStorage.getItem('notes') || '[]');
