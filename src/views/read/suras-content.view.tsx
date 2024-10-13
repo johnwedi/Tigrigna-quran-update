@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 import { useNavigate } from 'react-router-dom';
 import CardContent from "../../components/card-list/Cardlist.component";
-import surahData from "../../assets/data/ayas.json";
+import surahData from "../../assets/data/new_ayas.json";
 import styles from "../../components/card-list/Cardlist.module.css"; 
 import Button from "../../components/forms/button/button.component";
 
