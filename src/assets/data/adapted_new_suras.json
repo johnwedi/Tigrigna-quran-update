@@ -236,8 +236,8 @@
         "english_name": "Ar-Rum",
         "number_of_ayas": 60,
         "sura_id": 30,
-        "tigrigna_name": "ሮም",
-        "tigrigna_sura_name_translated": "ሮም"
+        "tigrigna_name": "ኣታ ሮም",
+        "tigrigna_sura_name_translated": "እታ ሮም"
     },
     {
         "arabic_name": "لقمٰن",
@@ -276,8 +276,8 @@
         "english_name": "Fatir",
         "number_of_ayas": 45,
         "sura_id": 35,
-        "tigrigna_name": " እቲ ፈጣሪ",
-        "tigrigna_sura_name_translated": " እቲ ፈጣሪ"
+        "tigrigna_name": "ፈጣሪ",
+        "tigrigna_sura_name_translated": "ፈጣሪ"
     },
     {
         "arabic_name": "يٰسۤ",
@@ -404,8 +404,8 @@
         "english_name": "Az-Zariyat",
         "number_of_ayas": 60,
         "sura_id": 51,
-        "tigrigna_name": "ምብታን",
-        "tigrigna_sura_name_translated": "ምብታን"
+        "tigrigna_name": "እቲ ምብታን",
+        "tigrigna_sura_name_translated": "እቲ ምብታን"
     },
     {
         "arabic_name": "الطور",
