@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Card from '../../components/card/card.component';
-import surahData from '../../assets/data/suras.json';
+import surahData from '../../assets/data/new_suras.json';
 import styles from './styles/surah.module.css';
 
 interface Surah {
